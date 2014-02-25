@@ -1,3 +1,9 @@
+Gradle
+======
+Install .aar to local maven repository:
+
+    ./gradlew install
+
 Facebook SDK for Android
 ========================
 
